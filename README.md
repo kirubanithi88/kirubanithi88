@@ -3,7 +3,8 @@
 
 <h1 align="center">Hi 👋, I'm Kirubanithi</h1>
 <h3 align="center">Passionate about designing software that solve real-world problems. Enthusiastic, hardworking individual.</h3>
-<img align ="right" alt="coding" width ="400" src="https://www.bing.com/th/id/OGC.9b6764db36bb48ac8d5c58c2c60190b8?pid=1.7&rurl=https%3a%2f%2fmedia2.giphy.com%2fmedia%2f11jacPItBsJDLa%2fsource.gif&ehk=jjPhLrhTOfMDWEpAZ2Yz3Tx05%2bTVuFffim7n8LXzeCU%3d">
+<img align ="center" alt="coding" width ="300" src="https://www.bing.com/th/id/OGC.9b6764db36bb48ac8d5c58c2c60190b8?pid=1.7&rurl=https%3a%2f%2fmedia2.giphy.com%2fmedia%2f11jacPItBsJDLa%2fsource.gif&ehk=jjPhLrhTOfMDWEpAZ2Yz3Tx05%2bTVuFffim7n8LXzeCU%3d",https://www.bing.com/th/id/OGC.313efb7b15523fa97ebaff4c7cf6fca3?pid=1.7&rurl=https%3a%2f%2fmedia.tenor.com%2fRHsNK1EtIsYAAAAC%2falgorithm-the-algorithm.gif&ehk=uXvs46eEHpvibTm7j%2fX1EoqArkT8PeR4hXam%2fMQiBFY%3d">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kirubanithi88&label=Profile%20views&color=0e75b6&style=flat" alt="kirubanithi88" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kirubanithi88" alt="kirubanithi88" /></a> </p>
